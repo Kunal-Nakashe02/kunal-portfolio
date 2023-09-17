@@ -1,0 +1,78 @@
+.home-container{
+    height: 300px;
+    color: aliceblue; 
+    margin-top: 150px;
+    padding-left: 150px;
+} 
+.home-content h2{
+    padding-top: 80px;
+    /* margin-left: 150px; */
+    padding: 5px;
+}
+.home-content h1{
+   color: yellow;
+   /* margin-left: 150px; */
+   padding: 5px;
+   
+}
+.home-buttons{
+    /* margin-left: 150px; */
+    margin-top: 20px;
+}
+.home-buttons .btn-hire{
+    background-color: rgb(34, 223, 223);
+    color: white;
+    width: 160px;
+}
+.home-buttons .btn-hire:hover{
+    background-color: white;
+    color: blue;
+    width: 200px;
+    transition: 1s;
+}
+.home-buttons .btn-cv{
+    background-color: #f29f67;
+    color: white;
+    width: 160px;
+    margin-left: 15px;
+}
+.home-buttons .btn-cv:hover{
+    opacity: 80%;
+    transition: 1s;
+}
+
+.theme-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;;
+    width: 50px;
+    background-color: black;
+    margin-top: 20px;
+    text-align: center;
+    position: fixed;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    z-index:1;
+}
+
+/* responsive */
+@media (max-width:600px){
+    .home-container{
+        padding: 0;
+        margin: 0;
+        margin-top: 50px;
+    }
+    .home-container h2{
+        font-size: 24px;
+    }
+    .home-container h1{
+        font-size: 24px;
+    }
+    
+
+
+}

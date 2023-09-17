@@ -1,0 +1,42 @@
+.work{
+    background-color: #1847d428;
+    margin-left: 140px;
+}
+.work-exp{
+    padding: 60px 0px;
+}
+.work-exp h2{
+    font-weight: bold;
+    color: #1e1e2c;
+}
+.work-exp hr{
+    color: rgb(116, 223, 118);
+    width: 500px;
+    margin: 10px auto; 
+}
+
+.work-exp .vertical-timeline-element-title{
+    color: peru;
+}
+
+.work-exp .vertical-timeline-element-subtitle{
+    color: cadetblue;
+}
+
+/* dark mode */
+#dark .work{
+    background-color: #12a4f3ae;
+}
+
+/* responsive design */
+
+@media (max-width:600px) {
+    .work{
+        margin: 0;
+        padding: 0;
+        margin-top: 50px;
+    }
+    .work hr{
+        width: 280px;
+    }
+}

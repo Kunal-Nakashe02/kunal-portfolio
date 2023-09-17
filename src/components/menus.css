@@ -1,0 +1,35 @@
+.navbar-profile-pic img{
+    display: flex;
+    vertical-align: middle;
+    border-radius: 90px;
+    height: 140px;
+    width: 140px;
+    margin: 0 auto;
+    margin-top: 8px ;
+}
+.nav-item{
+    color: white;
+    margin-top: 25px;
+    /* text-align: center; */
+    margin-left: 25px;
+}
+.nav-link{
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: small;
+}
+.nav-link svg{
+    margin-right: 10px;
+    text-align: center;
+}
+.nav-link:hover{
+    color:  #f29f67;
+}
+
+/* navigation links in application */
+.nav-link .active{
+    color: #f29f67;
+    border-left: 5px solid #f29f67;
+    padding-left: 10px;
+    text-decoration: none;
+}
