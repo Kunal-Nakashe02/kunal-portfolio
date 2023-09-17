@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Kunal-Nakashe02/kunal-portfolio/static/css/main.0e15f2d1.css",
+    "main.js": "/Kunal-Nakashe02/kunal-portfolio/static/js/main.d130c7f9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Kunal-Nakashe02/kunal-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/contact.jpeg": "/Kunal-Nakashe02/kunal-portfolio/static/media/contact.d9d0316c398c25c5e615.jpeg",
+    "static/media/CV_2023.pdf": "/Kunal-Nakashe02/kunal-portfolio/static/media/CV_2023.384737cd477105a4c41b.pdf",
+    "static/media/myimg.jpeg": "/Kunal-Nakashe02/kunal-portfolio/static/media/myimg.492ad0d9d0590db75179.jpeg",
+    "index.html": "/Kunal-Nakashe02/kunal-portfolio/index.html",
+    "main.0e15f2d1.css.map": "/Kunal-Nakashe02/kunal-portfolio/static/css/main.0e15f2d1.css.map",
+    "main.d130c7f9.js.map": "/Kunal-Nakashe02/kunal-portfolio/static/js/main.d130c7f9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Kunal-Nakashe02/kunal-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e15f2d1.css",
+    "static/js/main.d130c7f9.js"
+  ]
+}
